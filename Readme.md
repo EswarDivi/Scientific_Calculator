@@ -18,7 +18,7 @@ The Documentation of this project can be found [Here]()
 
 **IDE** - Eclipse
 
-**Window builder package **- we have used this to simplify our code to  make it easier to interpret and create the GUI
+**Window builder package**- we have used this to simplify our code to  make it easier to interpret and create the GUI
 
 ### UML Diagram
 
